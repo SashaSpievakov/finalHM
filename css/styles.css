@@ -8,6 +8,16 @@ header {
   align-items: center;
 }
 
+.scroll-top {
+  display: block;
+  position: fixed;
+  bottom: 30px;
+  right: 50px;
+  padding: 20px;
+  border-radius: 10px;
+  background-color: black;
+}
+
 .title {
   font-size: 5rem;
   margin: 100px 0 75px;
