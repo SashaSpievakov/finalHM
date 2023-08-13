@@ -1,0 +1,16 @@
+.dark {
+  background: #000;
+  color: #fff;
+}
+
+.dark img {
+  border-color: #242627;
+}
+
+.dark button {
+  background-color: #a0b3b8;
+}
+
+.dark .gallery {
+  background-color: #242627;
+}
